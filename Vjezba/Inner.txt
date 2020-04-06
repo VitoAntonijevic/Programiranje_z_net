@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="InnerJS.js">
+    </script>
+</head>
+<body>
+    <h2> 5 Zadatak (Inner) </h2>
+    <p> Dobar dan </p>
+</body>
+</html>
+
+JS
+
+h2.innerHTML= "ucimo JS"
+
+inner nisam shvatio do kraja.. probo sam ali ne kuzim bas

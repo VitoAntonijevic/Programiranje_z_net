@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="confirmJS.js">
+    </script>
+</head>
+
+<body>
+<h2> 2 Zadatak (Confirm) </h2>
+<p> Dobar dan </p>
+</body>
+</html>
+
+JS
+
+confirm( "potvrdite ulazak na stranicu" )

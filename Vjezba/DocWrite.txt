@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <script src="DocWriteJS.js">
+        </script>
+</head>
+
+<body>
+    <h2> 4 Zadatak (Doc Write) </h2>
+    <p> Nije dobar dan </p>
+</body>
+</html>
+
+JS
+
+document.write(" <h1> dobar dan </h1> ")

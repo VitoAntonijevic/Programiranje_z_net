@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="promptJS.js">
+    </script>
+</head>
+
+<body>
+<h2> 3 Zadatak (Prompt) </h2>
+<p> Dobar dan </p>
+</body>
+</html>
+
+JS
+
+prompt(" Unesite vase ime:")

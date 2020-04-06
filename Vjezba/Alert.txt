@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="alertJS.js">
+    </script>
+</head>
+
+<body>
+    <h1> 1 Zadatak (Alert) </h1>
+    <p> Dobar dan </p>
+</body>
+</html>
+
+JS
+
+alert("danas je lijep i suncan dan, a ja sam doma :(  ")
