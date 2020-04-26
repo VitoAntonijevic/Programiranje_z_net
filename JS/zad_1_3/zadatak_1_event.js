@@ -1,0 +1,1 @@
+alert("Slika se učitala");
